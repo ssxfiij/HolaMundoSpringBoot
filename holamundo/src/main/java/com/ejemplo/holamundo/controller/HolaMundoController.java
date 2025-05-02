@@ -11,7 +11,7 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String holaMundo(){
-        return "Hola Mundo sofia :D";
+        return "Hola Mundo sofia :'(";
 
 
     }
